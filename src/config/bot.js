@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "Roblox fails", // required by Discord API, not shown in the client
+        name: "Roblox fail", // required by Discord API, not shown in the client
         state: "Playing",     // this is what people actually see
         type: 3,               // Custom
       },
